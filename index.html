@@ -12,8 +12,8 @@
         <a-scene
             vr-mode-ui="enabled: false;"
             loading-screen="enabled: false;"
-            renderer="logarithmicDepthBuffer: true;"
-            arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: false;"
+            renderer="antialias: false; logarithmicDepthBuffer: false; precision: low; alpha: false; physicallyCorrectLights: false; colorManagement: false;"
+            arjs="trackingMethod: best; sourceType: webcam; debugUIEnabled: true; patternRatio: 0.70"
             id="scene"
             embedded
             gesture-detector

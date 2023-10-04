@@ -1,1 +1,1 @@
-# Placanx7l9
+Web App that uses ![alt-text][MindAR](https://github.com/hiukim/mind-ar-js) for Face Tracking and renders a Smilodon populator reconstruction as a "virtual mask". Augmente Reality experience used with kids during science outreach activities.
